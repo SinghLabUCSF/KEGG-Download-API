@@ -1,0 +1,4 @@
+T01001           Homo sapiens (human) KEGG Genes Database
+hsa              Release 77.0+/03-18, Mar 16
+                 Kanehisa Laboratories
+                 39,761 entries

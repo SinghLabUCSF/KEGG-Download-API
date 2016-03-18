@@ -34,12 +34,12 @@ mmu_all-genes.txt: List of all mouse genes in kegg
 #my $organism = 'hsa';
 
 # Kegg version info for records
-#print `wget http://rest.kegg.jp/info/$organism -O $organism\_kegg-info.txt`;
+print `wget http://rest.kegg.jp/info/$organism -O $organism\_kegg-info.txt`;
 
 # For a particular organism - download all genes, all pathways and pathway to gene mapping
-#print `wget http://rest.kegg.jp/list/pathway/$organism -O $organism\_all-pathways.txt`; # all pathways
-#print `wget http://rest.kegg.jp/list/$organism -O $organism\_all-genes.txt`; # all genes
-#print `wget http://rest.kegg.jp/link/$organism/pathway -O $organism\_pathway-to-gene-mapping.txt`; # pathway to gene maping
+print `wget http://rest.kegg.jp/list/pathway/$organism -O $organism\_all-pathways.txt`; # all pathways
+print `wget http://rest.kegg.jp/list/$organism -O $organism\_all-genes.txt`; # all genes
+print `wget http://rest.kegg.jp/link/$organism/pathway -O $organism\_pathway-to-gene-mapping.txt`; # pathway to gene maping
 
 # Read and parse the pathway file and make a 2D hash with pahway id and gene ids -------------------------------------
 my %Pathway2Genes;
