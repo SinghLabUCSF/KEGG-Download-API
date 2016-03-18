@@ -6,7 +6,7 @@
 
 * Check this for KEGG API: http://www.genome.jp/kegg/rest/keggapi.html
 
-* Example files for Zebrafish and Moue are in (mouse_mmu)[/mouse_mmu] and (mouse_mmu)[/mouse_mmu] 
+* Example files for Zebrafish and Moue are in [mouse_mmu](/mouse_mmu) and (mouse_mmu)[/mouse_mmu] 
 
 * you need to have a working internet connection
 
