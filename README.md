@@ -12,8 +12,8 @@
 
 * Output files:
   KEGG_Pathway-genes_Processed_<organism>.txt: All genes and pathways
-  <organism>_all-genes.txt: List of all genes for an organism
-  <organism>_all-pathways: List of all pathways for an organism in KEGG
+  \<organism\>_all-genes.txt: List of all genes for an organism
+  \<organism\>_all-pathways: List of all pathways for an organism in KEGG
   <organism>_kegg-info.txt: Information of the KEGG version stats etc for records
   <organism>_pathway-to-gene-mapping.txt: Pathway and gene mappping              
 
