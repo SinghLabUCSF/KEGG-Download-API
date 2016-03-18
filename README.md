@@ -6,10 +6,10 @@
 
 * Check this for KEGG API: http://www.genome.jp/kegg/rest/keggapi.html
 
-* Example files for Mouse, Zebrafish and Human are in [mouse_mmu](/mouse_mmu) and [zebrafish_dre](zebrafish_dre) [human_hsa](human_dre)
+* Example files for Mouse, Zebrafish and Human are in [mouse_mmu](/mouse_mmu), [zebrafish_dre](zebrafish_dre) and [human_hsa](human_hsa)
 
 * Output files:   
-  ***KEGG_Pathway-genes_Processed_\<organism\>.txt: All genes and pathways***   
+  **KEGG_Pathway-genes_Processed_\<organism\>.txt: All genes and pathways**   
   \<organism\>_all-genes.txt: List of all genes for an organism   
   \<organism\>_all-pathways: List of all pathways for an organism in KEGG   
   \<organism\>_kegg-info.txt: Information of the KEGG version stats etc for records   
