@@ -1,0 +1,4 @@
+T00019           Caenorhabditis elegans (nematode) KEGG Genes Database
+cel              Release 81.0+/03-17, Mar 17
+                 Kanehisa Laboratories
+                 45,164 entries

@@ -1,0 +1,4 @@
+T01002           Mus musculus (mouse) KEGG Genes Database
+mmu              Release 77.0+/03-18, Mar 16
+                 Kanehisa Laboratories
+                 38,669 entries

@@ -1,0 +1,4 @@
+T01004           Danio rerio (zebrafish) KEGG Genes Database
+dre              Release 81.0+/03-17, Mar 17
+                 Kanehisa Laboratories
+                 33,053 entries
