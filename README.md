@@ -15,5 +15,7 @@
   \<organism\>_kegg-info.txt: Information of the KEGG version stats etc for records   
   \<organism\>_pathway-to-gene-mapping.txt: Pathway and gene mappping              
 
-
-
+* 20170316: Updated to adjust the gene name parsing a bit since in the new version file format has changed.  
+  Also created new directories for the version Mar_2016 and Mar_2017
+  
+* 20170405: There was a bug is gene name so updated again, now the gene names are proper.
